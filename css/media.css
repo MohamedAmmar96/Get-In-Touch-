@@ -1,0 +1,188 @@
+/**************** Extra Small Screens ****************/ 
+@media (max-width:767px){
+    .container-fluid
+    {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .container
+    {
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+    .navigation{
+        padding-top: 40px;
+    }
+    .navigation .logo{
+        -webkit-transform: translateY(100px);
+        -moz-transform: translateY(100px);
+        -o-transform: translateY(100px);
+        transform: translateY(100px);
+        width: 140px;
+        height: 140px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .navigation .qutation{
+        font-size: 16px;
+        width: 140px;
+    }
+    .nav-links{
+        display: none;
+    }
+    .flex-box{
+        display: flex;
+        flex-direction: column;
+        align-content: space-between;
+    }
+    .dev-one{
+        order:2;
+    }
+    .dev-two{
+        order:1;
+        margin-bottom: 30px;
+    }
+    .get-in-touch{
+        padding-bottom: 120px;
+    }
+    .get-in-touch h1{
+        font-size: 40px;
+    }
+    .get-in-touch .align-left{
+        text-align: center;
+    }
+    .get-in-touch .align-left h3{
+        font-size: 30px;
+    }
+    .menu ul{
+        font-size: 17px;
+    }
+    .menu ul li{
+        margin-bottom: 10px;
+    }
+    .menu ul li:hover::before
+    {
+        content: "-";
+        margin-right: 10px;
+    }
+    .menu ul li:hover::after
+    {
+        content: "-";
+        margin-left: 10px;
+    }
+}
+
+/*********************  Small Screens *********************/
+@media (min-width:768px) and (max-width:991px){
+    .container-fluid
+    {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .container
+    {
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+    .navigation{
+        padding-top: 40px;
+    }
+    .navigation .logo{
+        -webkit-transform: translateY(100px);
+        -moz-transform: translateY(100px);
+        -o-transform: translateY(100px);
+        transform: translateY(100px);
+        width: 140px;
+        height: 140px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .navigation .qutation{
+        font-size: 16px;
+        width: 140px;
+    }
+    .nav-links{
+        display: none;
+    }
+    .flex-box{
+        display: flex;
+        flex-direction: column;
+        align-content: space-between;
+    }
+    .dev-one{
+        order:2;
+    }
+    .dev-two{
+        order:1;
+        margin-bottom: 30px;
+    }
+    .get-in-touch{
+        padding-bottom: 120px;
+    }
+    .get-in-touch h1{
+        font-size: 40px;
+    }
+    .get-in-touch .align-left{
+        text-align: center;
+    }
+    .get-in-touch .align-left h3{
+        font-size: 30px;
+    }
+    .menu ul{
+        font-size: 25px;
+    }
+    .menu ul li{
+        margin-bottom: 14px;
+    }
+    .menu ul li:hover::before
+    {
+        content: "-";
+        margin-right: 15px;
+    }
+    .menu ul li:hover::after
+    {
+        content: "-";
+        margin-left: 15px;
+    }
+}
+
+/*********************  Medium Screens ********************/
+@media (min-width:992px)and (max-width:1199px){
+    .container-fluid
+    {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .container
+    {
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+    .nav-links{
+        display: none;
+    }
+    .get-in-touch h1{
+        font-size: 45px;
+    }
+    .menu ul{
+        font-size: 30px;
+    }
+    .menu ul li{
+        margin-bottom: 18px;
+    }
+    .menu ul li:hover::before
+    {
+        content: "-";
+        margin-right: 15px;
+    }
+    .menu ul li:hover::after
+    {
+        content: "-";
+        margin-left: 15px;
+    }
+}
+
+/*********************  Large Screens *********************/
+@media (min-width:1200px){
+    
+}

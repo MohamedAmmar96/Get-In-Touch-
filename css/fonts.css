@@ -1,0 +1,89 @@
+@font-face{
+    font-family:"black";
+    src: url("../webfonts/fonts/Poppins/Poppins-Black.ttf")
+}
+
+@font-face{
+    font-family:"black-italic";
+    src: url("../webfonts/fonts/Poppins/Poppins-BlackItalic.ttf")
+}
+
+@font-face{
+    font-family:"bold";
+    src: url("../webfonts/fonts/Poppins/Poppins-Bold.ttf")
+}
+
+@font-face{
+    font-family:"bold-italic";
+    src: url("../webfonts/fonts/Poppins/Poppins-BoldItalic.ttf")
+}
+
+@font-face{
+    font-family:"extra-bold";
+    src: url("../webfonts/fonts/Poppins/Poppins-ExtraBold.ttf")
+}
+
+@font-face{
+    font-family:"extra-bold-italic";
+    src: url("../webfonts/fonts/Poppins/Poppins-ExtraBoldItalic.ttf")
+}
+
+@font-face{
+    font-family:"extra-light";
+    src: url("../webfonts/fonts/Poppins/Poppins-ExtraLight.ttf")
+}
+
+@font-face{
+    font-family:"extra-light-italic";
+    src: url("../webfonts/fonts/Poppins/Poppins-ExtraLightItalic.ttf")
+}
+
+@font-face{
+    font-family:"italic";
+    src: url("../webfonts/fonts/Poppins/Poppins-Italic.ttf")
+}
+
+@font-face{
+    font-family:"light";
+    src: url("../webfonts/fonts/Poppins/Poppins-Light.ttf")
+}
+
+@font-face{
+    font-family:"light-italic";
+    src: url("../webfonts/fonts/Poppins/Poppins-LightItalic.ttf")
+}
+
+@font-face{
+    font-family:"medium";
+    src: url("../webfonts/fonts/Poppins/Poppins-Medium.ttf")
+}
+
+@font-face{
+    font-family:"medium-italic";
+    src: url("../webfonts/fonts/Poppins/Poppins-MediumItalic.ttf")
+}
+
+@font-face{
+    font-family:"regular";
+    src: url("../webfonts/fonts/Poppins/Poppins-Regular.ttf")
+}
+
+@font-face{
+    font-family:"semi-bold";
+    src: url("../webfonts/fonts/Poppins/Poppins-SemiBold.ttf")
+}
+
+@font-face{
+    font-family:"semi-bold-italic";
+    src: url("../webfonts/fonts/Poppins/Poppins-SemiBoldItalic.ttf")
+}
+
+@font-face{
+    font-family:"thin";
+    src: url("../webfonts/fonts/Poppins/Poppins-Thin.ttf")
+}
+
+@font-face{
+    font-family:"thin-italic";
+    src: url("../webfonts/fonts/Poppins/Poppins-ThinItalic.ttf")
+}
